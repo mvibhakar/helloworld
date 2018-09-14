@@ -1,2 +1,9 @@
-# helloworld
-practice for fall semester
+# Project Hello World
++ By: Maia Vibhakar
++ Production URL: <http://p1.yourdomain.com>
+
+## Outside resources
+n/a
+
+## Notes for instructor
+n/a
